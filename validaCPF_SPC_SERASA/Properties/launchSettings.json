@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "validaCPF_SPC_SERASA": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7290",
+      "launchBrowser": false
+    }
+  }
+}
